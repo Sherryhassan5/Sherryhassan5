@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sheraz Hassan</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
-<img align="center" alt="Coding" width="400" style="margin:20px auto;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img alt="Coding" width="400" style="display:block;margin:20px auto;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherryhassan5&label=Profile%20views&color=0e75b6&style=flat" alt="sherryhassan5" /> </p>
 
